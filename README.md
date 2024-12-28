@@ -26,7 +26,7 @@ The CNN model has the following architecture:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Neural_Network_Model.git
+   git clone https://github.com/shady-mo20/Neural_Network_Model.git
    ```
 2. Install the required dependencies:
    ```bash
